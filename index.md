@@ -1,3 +1,13 @@
+## Welcome to the my new website!
+*Huge thank you to the Open Life Sciences team for guiding me to here :)
+
+
+
+
+
+
+(I am going to keep my instructions in using this just here for now, so I don't lose them!!)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KateSimpson/Open-access-data-driven-retrofit-evaluation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
