@@ -16,7 +16,7 @@ Here is my first share, a sort of catalogue of various data that could inform re
 - **REFIT** 20 core homes	Academic	Survey data	Gas consumption, electrical load measurements, internal air temperature, local climate data and sensor measurements	One survey (1,054 households), Semi-structured interviews and one structured survey on perceptions of smart homes	https://www.refitsmarthomes.org/datasets/
 
 - **Mixed data on household energy and occupant behaviour	LEEDR**: 20 households: building survey data, images, appliances, sensor location and calibration	Window and door opening, electrical power measurement of incoming supply and appliances, gas and hot water consumption	Window and door opening, Passive Infra-Red room activity monitoring, 
-Data processing procedures for all data.	https://repository.lboro.ac.uk/articles/LEEDR_project_home_energy_dataset/6176450]
+Data processing procedures for all data.	https://repository.lboro.ac.uk/articles/LEEDR_project_home_energy_dataset/6176450
 
 - **National Energy Efficiency Data-Framework	NEED** UK wide	Government	Building attribute data (from Valuation Office Agency and Scottish Assessor)	Matches gas and electricity data (from Energy suppliers and transporters) with energy efficiency measures installed (from HEED and policy measures)	Household characteristics (from Experian) and socio-demographics (Government data)	Government-led overview. https://www.gov.uk/government/collections/national-energy-efficiency-data-need-framework
 
