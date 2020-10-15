@@ -2,13 +2,13 @@
 
 I hope to use this to encourage open discussion and collaboration towards open retrofit evaluation, where ethical and householders are empowered to share.
 
-Project canvas: [https://docs.google.com/presentation/d/1jrCcgZkHrWQwSxNHu8bHaxcBfwuXTQuWxodSIik4T9g/edit#slide=id.p]
+[Project canvas] (https://docs.google.com/presentation/d/1jrCcgZkHrWQwSxNHu8bHaxcBfwuXTQuWxodSIik4T9g/edit#slide=id.p)
 
-Project Roadmap: [https://github.com/users/KateSimpson/projects/1]
+[Project Roadmap] (https://github.com/users/KateSimpson/projects/1)
 
-README file: [https://github.com/KateSimpson/Open-access-data-driven-retrofit-evaluation/blob/gh-pages/README.md]
+[README file] (https://github.com/KateSimpson/Open-access-data-driven-retrofit-evaluation/blob/gh-pages/README.md)
 
-LICENCE: [https://github.com/KateSimpson/Open-access-data-driven-retrofit-evaluation/blob/gh-pages/LICENCE ]
+[LICENCE] (https://github.com/KateSimpson/Open-access-data-driven-retrofit-evaluation/blob/gh-pages/LICENCE)
 
 
 Here is my first share, a sort of catalogue of various data that could inform retrofit. Please suggest more!
