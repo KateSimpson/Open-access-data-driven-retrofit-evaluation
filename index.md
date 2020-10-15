@@ -1,10 +1,18 @@
 ## Welcome to the my new website!
-*Huge thank you to the Open Life Sciences team for guiding me to here :)
+
+I hope to use this to encourage open discussion and collaboration towards open retrofit evaluation, where ethical and householders are empowered to share.
+
+Project canvas: https://docs.google.com/presentation/d/1jrCcgZkHrWQwSxNHu8bHaxcBfwuXTQuWxodSIik4T9g/edit#slide=id.p
+
+Project Roadmap: https://github.com/users/KateSimpson/projects/1
+
+README file: https://github.com/KateSimpson/Open-access-data-driven-retrofit-evaluation/blob/gh-pages/README.md
+
+LICENCE: https://github.com/KateSimpson/Open-access-data-driven-retrofit-evaluation/blob/gh-pages/LICENCE 
+
 
 Here is my first share, a sort of catalogue of various data that could inform retrofit. Please suggest more!
 
-
-Overview	Project and scale	Sector	Building data	Technologies and physical data	Social data	Opportunities	Link
 Mixed data on household energy use and local climate	REFIT: 20 core homes	Academic	Survey data	Gas consumption, electrical load measurements, internal air temperature, local climate data and sensor measurements	One survey (1,054 households), Semi-structured interviews and one structured survey on perceptions of smart homes	https://www.refitsmarthomes.org/datasets/
 
 Mixed data on household energy and occupant behaviour	LEEDR: 20 households	Academic	Building survey data,
