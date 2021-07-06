@@ -1,6 +1,6 @@
 ## Welcome to my new website!
 
-I hope to use this to encourage open discussion and collaboration towards open retrofit evaluation data, where householders are empowered to share.
+I hope to use this to encourage open discussion and collaboration towards open retrofit evaluation data.
 
 [Project canvas]: (https://docs.google.com/presentation/d/1jrCcgZkHrWQwSxNHu8bHaxcBfwuXTQuWxodSIik4T9g/edit#slide=id.p)
 
