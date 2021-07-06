@@ -1,6 +1,6 @@
-## Welcome to my new website!
+## Open access data that can infrom retrofit....
 
-I hope to use this to encourage open discussion and collaboration towards open retrofit evaluation, where ethical and householders are empowered to share.
+I hope to use this page to encourage open discussion and collaboration towards open retrofit evaluation.
 
 [Project canvas]: (https://docs.google.com/presentation/d/1jrCcgZkHrWQwSxNHu8bHaxcBfwuXTQuWxodSIik4T9g/edit#slide=id.p)
 
