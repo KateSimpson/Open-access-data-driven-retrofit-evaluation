@@ -1,6 +1,6 @@
 ## Welcome to my new website!
 
-I hope to use this to encourage open discussion and collaboration towards open retrofit evaluation, where ethical and householders are empowered to share.
+I hope to use this to encourage open discussion and collaboration towards open retrofit evaluation data, where householders are empowered to share.
 
 [Project canvas]: (https://docs.google.com/presentation/d/1jrCcgZkHrWQwSxNHu8bHaxcBfwuXTQuWxodSIik4T9g/edit#slide=id.p)
 
@@ -11,7 +11,7 @@ I hope to use this to encourage open discussion and collaboration towards open r
 [LICENCE]: (https://github.com/KateSimpson/Open-access-data-driven-retrofit-evaluation/blob/gh-pages/LICENCE)
 
 
-Here is my first share, a sort of catalogue of various data that could inform retrofit. Please suggest more!
+Here is my first share, a sort of catalogue of various data others have colected, that could inform retrofit. Please suggest more!
 
 - **REFIT** 20 core homes	Academic	Survey data	Gas consumption, electrical load measurements, internal air temperature, local climate data and sensor measurements	One survey (1,054 households), Semi-structured interviews and one structured survey on perceptions of smart homes	https://www.refitsmarthomes.org/datasets/
 
